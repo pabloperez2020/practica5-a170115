@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" herf="file:///C:/Users/David/Documents/practica5_a170115/ejemplo1.xsl"?>
+
+<auto>
+<marca>
+<modelo> versa</modelo>
+<año>2022</año>
+</marca>
+<marca>
+<modelo> vento</modelo>
+<año>2022</año>
+</marca>
+<marca>
+<modelo> toyota</modelo>
+<año>2018</año>
+</marca>
+</auto>
